@@ -1,4 +1,3 @@
-def math():
 a = 70
 b= 7
 suma = a + b
