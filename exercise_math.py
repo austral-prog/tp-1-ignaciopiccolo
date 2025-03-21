@@ -1,6 +1,4 @@
 def math():
-    a = 57
-    b = 7
 a = 70
 b= 7
 suma = a + b
