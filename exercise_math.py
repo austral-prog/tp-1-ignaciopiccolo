@@ -1,5 +1,6 @@
-a = 70
-b= 7
+def math():
+     a = 57
+     b = 7
 suma = a + b
 diferencia = a - b
 producto = a * b
