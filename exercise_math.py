@@ -9,10 +9,10 @@ def math():
     resto = a % b
     division_real = a / b
 
-    print("Suma:", suma)
-    print("Diferencia:", diferencia)
-    print("Producto:", producto)
-    print("Promedio:", promedio)
-    print("Cociente entero:", cociente_entero)
-    print("Resto de la división entera:", resto)
-    print("División real:", division_real)
+    print(suma)
+    print(diferencia)
+    print(producto)
+    print(promedio)
+    print(cociente_entero)
+    print(resto)
+    print(division_real)
